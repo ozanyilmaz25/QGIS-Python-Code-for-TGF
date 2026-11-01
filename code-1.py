@@ -85,7 +85,7 @@ delta_lon_deg = (
 )
 
 
-# HASSAS DMS DONUSUM
+# DMS DONUSUM
 def deg_to_dms_precise(deg):
     deg_abs = abs(deg)
     d = int(deg_abs)
